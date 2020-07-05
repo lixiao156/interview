@@ -1,6 +1,5 @@
 package com.interview;
 
-import com.interviewone.L;
 
 import java.util.LinkedList;
 

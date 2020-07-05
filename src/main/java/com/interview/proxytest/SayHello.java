@@ -7,5 +7,5 @@ package com.interview.proxytest;
  */
 public interface SayHello {
     void say(String name);
-    void print();
+    void print(int id);
 }

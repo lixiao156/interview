@@ -15,7 +15,7 @@ public class SayHelloImpl implements SayHello {
     }
 
     @Override
-    public void print() {
-
+    public void print(int id) {
+        out.println(id);
     }
 }
